@@ -1,0 +1,24 @@
+{
+  "name": "almundo",
+  "version": "1.0.0",
+  "description": "almundo demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anewlink/almundo.git"
+  },
+  "keywords": [
+    "almundo",
+    "frontend",
+    "angularjs"
+  ],
+  "author": "Gabriel Martinez Rojas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anewlink/almundo/issues"
+  },
+  "homepage": "https://github.com/anewlink/almundo#readme"
+}
