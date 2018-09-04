@@ -1,0 +1,12 @@
+{
+  "non-interactive": true,
+  "buildCommand": "npm install && npm run build",
+  "src": {
+    "commit": true,
+    "push": true,
+    "tag": true
+  },
+  "npm": {
+    "publish": true
+  }
+}
